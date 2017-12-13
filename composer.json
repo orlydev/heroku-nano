@@ -1,0 +1,11 @@
+{
+    "name": "orlydev/heroku-nano",
+    "description": "nano for Heroku apps",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "bin": [
+        "bin/nano"
+    ]
+}
